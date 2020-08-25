@@ -10,9 +10,9 @@ Amante da tecnologia, aviação, e automobilismo!
 <br>
  Desenvolvedor Fullstack
 <br>
- Técnico de Informática - FIEC(2019)
+ Técnico de Informática - FIEC(Finalizado: 2019)
  <br>
- Cursando Análise e Desenvolvimento de Sistemas - CEUNSP (2021)
+ Cursando Análise e Desenvolvimento de Sistemas - CEUNSP(Conclusão em: 2021)
 
 
 [![Instagram Badge](https://img.shields.io/badge/-@lrleite__-ff0000?style=flat-square&labelColor=ff0000&logo=instagram&logoColor=white&link=https://www.instagram.com/lrleite_/)](https://www.instagram.com/lrleite_/) 
