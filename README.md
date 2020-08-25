@@ -8,10 +8,10 @@
 
 Amante da tecnologia, aviação, e automobilismo!
 
- - Desenvolvedor Fullstack
- - Analista e desenvolvedor de testes automatizados
- - Técnico de Informática - FIEC(2019)
- - Cursando Análise e Desenvolvimento de Sistemas - CEUNSP (2021)
+ Desenvolvedor Fullstack
+ Analista e desenvolvedor de testes automatizados
+ Técnico de Informática - FIEC(2019)
+ Cursando Análise e Desenvolvimento de Sistemas - CEUNSP (2021)
 
 
 [![Instagram Badge](https://img.shields.io/badge/-@lrleite__-ff0000?style=flat-square&labelColor=ff0000&logo=instagram&logoColor=white&link=https://www.instagram.com/lrleite_/)](https://www.instagram.com/lrleite_/) 
