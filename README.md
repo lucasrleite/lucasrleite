@@ -10,8 +10,6 @@ Amante da tecnologia, aviação, e automobilismo!
 <br>
  Desenvolvedor Fullstack
 <br>
- Analista e desenvolvedor de testes automatizados
- <br>
  Técnico de Informática - FIEC(2019)
  <br>
  Cursando Análise e Desenvolvimento de Sistemas - CEUNSP (2021)
