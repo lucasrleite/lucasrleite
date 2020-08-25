@@ -1,8 +1,12 @@
 
 
-# Lucas Leite
+
 
 <div align="center">
+
+# Lucas Leite
+
+Olá, seja bem-vindo ao meu perfil!
 
 [![Instagram Badge](https://img.shields.io/badge/-@lrleite__-ff0000?style=flat-square&labelColor=ff0000&logo=instagram&logoColor=white&link=https://www.instagram.com/lrleite_/)](https://www.instagram.com/lrleite_/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Leite-ff0000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-leite-4ab814183/)](https://www.linkedin.com/in/lucas-leite-4ab814183/) 
