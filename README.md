@@ -9,9 +9,9 @@ Desenvolvedor Fullstack
 <br>
 Analista e desenvolvedor de testes automatizados
 <br>
-Técnico de Informática - FIEC (Concluido: 2019)
+Técnico de Informática - FIEC
 <br>
-Cursando Análise e Desenvolvimento de Sistemas - CEUNSP (Conclusão: 2021)
+Análise e Desenvolvimento de Sistemas - CEUNSP
 <br>
 <br>
 [![Instagram Badge](https://img.shields.io/badge/-@lrleite__-ff0000?style=flat-square&labelColor=ff0000&logo=instagram&logoColor=white&link=https://www.instagram.com/lrleite_/)](https://www.instagram.com/lrleite_/) 
